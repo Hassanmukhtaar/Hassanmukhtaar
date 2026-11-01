@@ -6,7 +6,7 @@
 
 I'm a Computer Science graduate focused on data science, with a particular interest in using data to drive business decisions and measurable impact. I enjoy taking messy, real-world data through the full cycle: cleaning, analysis, modeling, and communicating insights people can act on.
 
-I'm currently **open to Data Scientist  / ML roles** (junior or entry level).
+I'm currently **open to Junior Data Scientist** 
 
 ---
 
@@ -38,7 +38,7 @@ I'm currently **open to Data Scientist  / ML roles** (junior or entry level).
 ### 🤝 Connect with me
 <p align="left">
   <a href="www.linkedin.com/in/hassan-mukhtar-753016283" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a0b904ea-d250-41a4-848b-1fd34c2444d3" alt="LinkedIn" height="35" width="35" />
+    <img src="https://github.com/user-attachments/assets/c17847b4-c515-4ca5-af2a-f6dad668256e" alt="LinkedIn" height="35" width="35" />
   </a>
 </p>
 

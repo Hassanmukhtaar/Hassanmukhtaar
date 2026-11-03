@@ -37,8 +37,11 @@ I'm currently **open to Junior Data Scientist**
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/hassan-mukhtar-753016283" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-mukhtar-753016283/" target="_blank">
     <img src="https://github.com/user-attachments/assets/c17847b4-c515-4ca5-af2a-f6dad668256e" alt="LinkedIn" height="35" width="35" />
+  </a>
+  <a href="mailto:hassanmukhtar722@gmail.com">
+    <img src="https://github.com/user-attachments/assets/ba7bfb28-ebca-4bcc-9de4-78a7a0d8d187" alt="Email" height="35" width="35" />
   </a>
 </p>
 

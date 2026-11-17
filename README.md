@@ -1,6 +1,7 @@
 <p align="right">
   <img width="900" alt="banner" src="https://github.com/user-attachments/assets/6f62164a-a4a4-4835-93c3-c7f84c81e078"/>
 </p>
+<img width="900" alt="hassan_mukhtar_data_scientist_orbit_banner" src="https://github.com/user-attachments/assets/5318707b-2fdb-421d-85cd-0c641a9e7897" />
 
 # Hi 👋, I'm Hassan Mukhtar
 

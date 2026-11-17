@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Hassan Mukhtar
 
-I'm a Computer Science graduate focused on data science, with a particular interest in using data to drive business decisions and measurable impact. I enjoy taking messy, real-world data through the full cycle: cleaning, analysis, modeling, and communicating insights people can act on.
+Computer Science graduate and Data Scientist driven by turning complex, raw data into actionable business insights. With a strong foundation in Python, Machine Learning, and PostgreSQL, I specialize in building and training predictive models that solve real-world problems and create measurable value for both companies and their customers. Curious by nature and analytical by training, I love bridging the gap between raw database queries and practical, data-driven solutions.
 
 I'm currently **open to Junior Data Scientist** 
 

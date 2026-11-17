@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1360" height="780" alt="banner-animated" src="https://github.com/user-attachments/assets/37caa469-e182-4d62-9077-6e7cb640a809" />
+<img width="1360" height="680" alt="banner-animated" src="https://github.com/user-attachments/assets/37caa469-e182-4d62-9077-6e7cb640a809" />
 </p>
 
 # Hi 👋, I'm Hassan Mukhtar
